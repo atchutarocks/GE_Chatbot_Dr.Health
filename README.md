@@ -1,5 +1,5 @@
 # GE_Chatbot_Dr.Health
-Made by Team-Dr.Health \n
+Made by Team-Dr.Health <br>
 Welcome to GE HealthCare's Documentation Assistant. Harnessing advanced Generative AI, this tool is designed to swiftly and accurately retrieve information from GEHC's vast repository of product manuals, data sheets, and operation guides. Whether you're a customer or a field engineer, our AI-powered chatbot is here to guide you through GE's medical technology documentation, supporting multiple languages to cater to our global user base.
 # Getting Started
 Follow these steps to set up and run the project on your local machine.
